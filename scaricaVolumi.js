@@ -6,6 +6,7 @@ const https = require('https');
 const batchSize = 40;
 
 // Percorso console per avviare script
+// Utilizzare una console qualsiasi
 //  >>>cd "C:\Users\Your User\Desktop\Scarica Capitoli"
 //  >>>node scaricaVolumi.js
 
